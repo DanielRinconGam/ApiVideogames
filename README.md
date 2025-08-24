@@ -79,7 +79,7 @@ DELETE http://localhost:8080/api/videojuegos/1
 GET http://localhost:8080/api/videojuegos
 ```
 
-### 6. Actualizar un videojuego (PUT)
+### 6. Actualizar un videojuego
 
 **Request:**
 ```http
