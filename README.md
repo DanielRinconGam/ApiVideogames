@@ -26,7 +26,7 @@ Insertamos uno por uno los tres Body siguientes
   "titulo": "PES 2021",
   "genero": "Deportes",
   "plataforma": "PlayStation 4",
-  "anioLanzamiento": 2020,
+  "anoLanzamiento": 2020,
   "precio": 150000
 }
 ```
@@ -36,7 +36,7 @@ Insertamos uno por uno los tres Body siguientes
   "titulo": "Halo Infinite",
   "genero": "Shooter",
   "plataforma": "Xbox Series X",
-  "anioLanzamiento": 2021,
+  "anoLanzamiento": 2021,
   "precio": 280000
 }
 ```
@@ -46,7 +46,7 @@ Insertamos uno por uno los tres Body siguientes
   "titulo": "Crash Bandicoot N. Sane Trilogy",
   "genero": "Plataformas",
   "plataforma": "Nintendo Switch",
-  "anioLanzamiento": 2017,
+  "anoLanzamiento": 2017,
   "precio": 150000
 }
 ```
@@ -93,7 +93,7 @@ Content-Type: application/json
   "titulo": "Crash Bandicoot N. Sane Trilogy (Remaster)",
   "genero": "Plataformas",
   "plataforma": "Nintendo Switch",
-  "anioLanzamiento": 2018,
+  "anoLanzamiento": 2018,
   "precio": 160000
 }
 ```
